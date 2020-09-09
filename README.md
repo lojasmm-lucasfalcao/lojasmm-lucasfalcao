@@ -1,7 +1,7 @@
 ### Hi there, I'm internship in LojasMM 👋
 </br> 
 </br>
-I'm studying a lot about many ways to make things real 💻
+ 💻 💻 💻 💻
 </br>
 
 
