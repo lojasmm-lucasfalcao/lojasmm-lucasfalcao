@@ -16,4 +16,4 @@ and other social-medias: </br> [![Gmail Badge](https://img.shields.io/badge/-Gma
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5542999415987&text=Olá!)](https://api.whatsapp.com/send?phone=5542999415987&text=Olá!)
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lojasmm-lucasfalcao&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula)](https://github.com/lojas-mm-lucasfalcao)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=lojasmm-lucasfalcao&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dark)](https://github.com/lojas-mm-lucasfalcao)
