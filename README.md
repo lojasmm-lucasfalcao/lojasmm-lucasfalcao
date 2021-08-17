@@ -1,4 +1,4 @@
-### Hi there, I'm internship in LojasMM 👋
+### Hi there, I'm Full-Stack Developer Jr. in LojasMM 👋
 </br> 
 </br>
  💻 💻 💻 💻
