@@ -17,3 +17,4 @@ and other social-medias: </br> [![Gmail Badge](https://img.shields.io/badge/-Gma
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=lojasmm-lucasfalcao&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dark)](https://github.com/lojasmm-lucasfalcao)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojasmm-lucasfalcao&layout=compact&langs_count=7&theme=dark"/>
