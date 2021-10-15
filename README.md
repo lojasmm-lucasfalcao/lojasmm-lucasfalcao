@@ -16,5 +16,5 @@ and other social-medias: </br> [![Gmail Badge](https://img.shields.io/badge/-Gma
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5542999415987&text=Olá!)](https://api.whatsapp.com/send?phone=5542999415987&text=Olá!)
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lojasmm-lucasfalcao&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dark)](https://github.com/lojasmm-lucasfalcao)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojasmm-lucasfalcao&layout=compact&langs_count=7&theme=dark"/>
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=lojasmm-lucasfalcao&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dark)](https://github.com/lojasmm-lucasfalcao) -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lojasmm-lucasfalcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
